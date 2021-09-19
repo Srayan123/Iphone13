@@ -1,0 +1,57 @@
+.Phone {
+    width: 450px;
+    position: absolute;
+    top: 5px;
+    left: 25px;
+}
+.hd {
+    position: absolute;
+    margin-left: 230px;
+    font-size: 40px;
+}
+.idiv {
+    margin-top: 5px;
+    width: 500px;
+    height: 720px;
+    display: block;
+    /* background-color: burlywood; */
+}
+.hdiv {
+    margin-left: 400px;
+}
+#a {
+    position: absolute;
+    top: 150px;
+    left: 640px;
+}
+.bn {
+    position: absolute;
+    top: 690px;
+    left: 640px;
+    background-color: aqua;
+    width: 160px;
+    height: 70px;
+}
+.des {
+    position: absolute;
+    width: 650px;
+    left: 640px;
+    top: 250px;
+}
+.pdes {
+    text-align: justify;
+}
+.Spec {
+    position: absolute;
+    left: 640px;
+    top: 550px;
+
+}
+.ac {
+    position: absolute;
+    top: 690px;
+    left: 940px;
+    background-color: orangered;
+    width: 160px;
+    height: 70px;
+}
